@@ -13,7 +13,7 @@ import java.util.Set;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-@Table(name="users", schema = "rent")
+@Table(schema = "rent")
 public class User {
 
     @OneToMany(mappedBy = "user", targetEntity = Article.class)//article relationShip
