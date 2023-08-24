@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/rentAPI.iml" filepath="$PROJECT_DIR$/.idea/rentAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RentAPI_V2.iml" filepath="$PROJECT_DIR$/.idea/RentAPI_V2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rentAPI/rentAPI.iml" filepath="$PROJECT_DIR$/rentAPI/rentAPI.iml" />
     </modules>
   </component>
 </project>
